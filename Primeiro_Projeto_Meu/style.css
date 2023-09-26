@@ -1,0 +1,38 @@
+body{
+    background-color: lightblue;
+    padding-left:5px ;
+    padding-right: 5px;
+    margin: auto;
+    width: 600px;
+    
+}
+p{
+    border: 5px black solid;
+    padding-left:5px ;
+    padding-right: 5px;
+}
+.image{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    padding-left:5px ;
+    padding-right: 5px;
+}
+h1{
+    text-align: center;
+    padding-left:5px ;
+    padding-right: 5px;
+}
+div{
+    background-color: aqua;
+    border: 5px black solid;
+    border-radius: 15%;
+    padding-left:5px ;
+    padding-right: 5px;
+}
+#Perfil1{
+    height: auto;
+    width: auto;
+    padding-left:5px ;
+    padding-right: 5px;
+}

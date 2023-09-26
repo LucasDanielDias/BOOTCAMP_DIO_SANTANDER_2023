@@ -1,0 +1,28 @@
+.contatos{
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+#email{
+    font-style: oblique;
+}
+body{
+    background-color: gray;
+}
+li{
+    padding: 5px 10px ;
+}
+#post{ 
+    border-bottom:red 3px solid;
+    border-top: 6px dashed blue;
+    border-left: 5px black dotted;
+    border-right: 4px purple solid;
+    background: lightblue;
+    border-radius: 20%;
+
+    width: 900px;
+    height: 900px;
+}
+image{
+    width: 100%;
+    height: 100%;
+}
